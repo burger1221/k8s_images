@@ -1,0 +1,1 @@
+From quay.io/datawire/ambassador:1.1.1
