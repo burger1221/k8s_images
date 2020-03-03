@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/katib/v1alpha2/metrics-collector:v0.1.2
+From gcr.io/kubeflow-images-public/katib/v1alpha2/metrics-collector:latest
